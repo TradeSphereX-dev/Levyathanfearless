@@ -1,4 +1,4 @@
-script_key = Trade.ScriptKey
+script_key = Fearless.ScriptKey
 
 if (not LPH_OBFUSCATED) then
     LPH_NO_VIRTUALIZE = function(...) return (...) end;
